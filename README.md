@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ibraheem Olamide Opadijo  
+# 👋 Hi, I'm Ibrahim Olamide Opadijo  
 
 💡 **Data Annotation & Python Enthusiast | Cybersecurity | Learning EDA & AI**  
 

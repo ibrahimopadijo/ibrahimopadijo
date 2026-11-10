@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahim Olamide Opadijo 👋
 
-**Cybersecurity | Python Security Tool Development | Linux & Defensive Automation**
+**Cybersecurity | Python | Security Tool Development & Operations | Linux & Defensive Automation**
 
 I'm a Cybersecurity undergraduate at the **Federal University of Technology, Akure (FUTA)**, with hands-on experience developing security-focused scripts, working with Linux systems, and exploring practical approaches to security monitoring.
 
